@@ -66,3 +66,10 @@ pip install -r requirements.txt
 ### 3. Run the Streamlit app
 streamlit run sentiment_app/app.py
 
+🙋‍♀️ Author
+Akshara A.S
+📧 aksharaas041@gmail.com
+🔗 LinkedIn
+
+📄 License
+This project is open-source and available under the MIT License.
